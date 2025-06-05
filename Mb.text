@@ -27,7 +27,7 @@
                 Hi
                 <span id="name">You</span>
             </h1>
-            <p class="two" id="greetingText">Bạn biết gì chưa?</p>
+            <p class="two" id="greetingText">Em biết gì chưa?</p>
         </div>
 
         <div class="three">
@@ -37,24 +37,24 @@
         <div class="four">
             <div class="text-box">
                 <p class="hbd-chatbox">
-                    Hôm nay vừa mở cửa, Nhật đã thấy bầu trời thật đẹp… và bất chợt, Nhật nhận ra hôm nay là sinh nhật của Hà!
-                Thật vui khi được chúc mừng sinh nhật bạn trong ngày đặc biệt này! 😄 Bạn đã có kế hoạch gì cho ngày hôm nay chưa?
+                    Hôm nay vừa mở cửa, Anh đã thấy bầu trời thật đẹp… và bất chợt, Anh nhận ra hôm nay là sinh nhật của Nguyệt!
+                Thật vui khi được chúc mừng sinh nhật em trong ngày đặc biệt này! 😄 Em đã có kế hoạch gì cho ngày hôm nay chưa?
                 </p>
                 <p class="fake-btn">Send</p>
             </div>
         </div>
 
         <div class="five">
-            <p class="idea-1">Lúc đầu Nhật muốn nhắn tin cho Hà</p>
-            <p class="idea-2">Nhưng sau đó Nhật đã dừng lại.</p>
+            <p class="idea-1">Lúc đầu anh muốn nhắn tin cho em</p>
+            <p class="idea-2">Nhưng sau đó anh đã dừng lại.</p>
             <p class="idea-3">
-                Nhật nhận ra, Nhật muốn làm một điều gì đó<br>
+                Nhật nhận ra, anh muốn làm một điều gì đó<br>
                 <strong>đặc biệt</strong>
                 .
             </p>
             <p class="idea-4">Bởi vì,</p>
             <p class="idea-5">
-                Hà là người rất đặc biệt
+                Em là người rất đặc biệt
                 <span>:)</span>
             </p>
             <p class="idea-6">
@@ -68,7 +68,7 @@
             <img src="img/cake.gif" alt="hat" class="hat" />
             <div class="wish">
                 <h3 class="wish-hbd">Happy Birthday!</h3>
-                <h5 class="wishText">Chúc bạn có một sinh nhật ngọt ngào như chính bạn! :)</h5>
+                <h5 class="wishText">Chúc Nguyệt có một sinh nhật ngọt ngào như chính em! :)</h5>
             </div>
         </div>
 
@@ -137,8 +137,8 @@
         </div>
 
         <div class="nine">
-            <p>Được rồi, bây giờ quay lại và cho tôi biết nếu bạn thích nó.</p>
-            <p id="replay">Hoặc nhấn vào đây, nếu bạn muốn xem lại.</p>
+            <p>Cái này anh coppy trên mạng ấy, chứ anh không có làm đâu.</p>
+            <p id="replay">Hoặc nhấn vào đây, nếu em muốn xem lại.</p>
             <p class="last-smile">:)</p>
         </div>
     </div>
